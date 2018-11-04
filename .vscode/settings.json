@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/790c24d5-917a-4b0a-ae65-ac62807a6f4d/resourceGroups/renThailandResourceGroup/providers/Microsoft.Web/sites/renThailand",
+    "appService.deploySubpath": ""
+}
